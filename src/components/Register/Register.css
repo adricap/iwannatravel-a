@@ -1,0 +1,37 @@
+.backgroundimage {
+  background-image: url("./background3.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.jumbotron {
+  margin-left: 310px;
+  padding: 20px;
+  width: 550px;
+  height: 660px;
+  background: rgba(17, 15, 15, 0.5);
+  border-radius: 150px;
+}
+
+.form-group input {
+  display: block;
+  width: 80%;
+  border-radius: 10px;
+  margin-left: 15%;
+  margin-right: 15%;
+  text-align: center;
+}
+select {
+  display: block;
+  border-radius: 10px;
+  width: 150px;
+  margin-left: 15%;
+  text-align: center;
+}
+
+p,
+label,
+h3 {
+  color: aliceblue;
+}
